@@ -1,0 +1,13 @@
+
+public class Soal1{
+    static int getTotal(int x, int y){
+        return x + y;
+    }
+
+    public static void main(String[] args){
+       int z = getTotal(8, 2); 
+        System.out.println(z);
+    }
+}
+
+
