@@ -1,4 +1,4 @@
-# Tugas_Kelompok1
+
 public class praktikumpemograman {
     // Method untuk menghitung jumlah dua bilangan bulat
     public static int getTotal(int num1, int num2) {
